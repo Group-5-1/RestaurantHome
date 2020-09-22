@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RestaurantHome</string>
+    <string name="dishfinder">DishFinder</string>
+    <string name="popular_dishes">Popular Dishes</string>
+    <string name="omelettes">Omelettes</string>
+    <string name="todo">TODO</string>
+    <string name="omelette2">omelette2</string>
+    <string name="omelette3">omelette3</string>
+    <string name="steak">steak</string>
+    <string name="brickyard_burger_owasso">bbo</string>
+    <string name="quesadilla">quesadilla</string>
+    <string name="favorite_dishes">fav_dishes</string>
+    <string name="favorite_dishes_true">Favorite Dishes</string>
+</resources>
